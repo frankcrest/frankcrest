@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🍽️ Developing an meal planner app.<br>📱 Need help with launching apps faster and handling notifications!<br>📚 Learning more about SwiftUI.<br>🍲 Love exploring cuisines and making food!<br>✈️ Fun fact: Travel inspires me!
+🍽️ Currently developing an meal planner app.<br>📱 Need help with launching apps faster and handling notifications!<br>📚 Learning more about SwiftUI.<br>🍲 Love exploring cuisines and making food!<br>✈️ Fun fact: Travel inspires me!
 
 
 ## 🌐 Socials:
